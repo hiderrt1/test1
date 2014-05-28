@@ -7,7 +7,7 @@
  */
 package test1;
 
-public class HelloTest2 {
+public class Hello2 {
 
     public static void main(String[] args) {
         System.out.println("Hello GitHub World 2.");
